@@ -16,6 +16,9 @@ const clothesRouter = require('./routes/clothes.route');
 const app = express();
 app.use(express.json());
 
+app.get("/",(req,res) => {
+  res.send("Welcome to My page");
+})
 
 app.use(foodRouter);
 app.use(clothesRouter);
