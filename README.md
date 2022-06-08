@@ -1,12 +1,12 @@
 # api-server
 ## Herkua deployed URL:
-![Herkua](https://shams-api-server.herokuapp.com/)
+[Herkua](https://shams-api-server.herokuapp.com/)
 
 ## Action :
-![Acton](https://github.com/shamssar/api-server/actions)
+[Acton](https://github.com/shamssar/api-server/actions)
 
 ## pull Request
-![pull](https://github.com/shamssar/api-server/pull/1)
+[pull](https://github.com/shamssar/api-server/pull/1)
 
 
 ## Route:
