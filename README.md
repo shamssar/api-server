@@ -50,3 +50,6 @@ delete(id)
 - ACP
 - All Checked done
 - Deploy on Herkuo.
+
+### UML Digram :
+![image](./UML.png.jpg)
